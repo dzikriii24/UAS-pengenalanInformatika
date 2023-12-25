@@ -138,7 +138,11 @@ https://youtu.be/WYwFyk4ICwU
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+Ini adalah video pembuatan akun linkedin
 https://youtu.be/1uxQWLLQc8k
+
+berikut adalah link dari profil linkedin yang sudah saya buat
+www.linkedin.com/in/dzikri-rabbani-3bb16428a
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
