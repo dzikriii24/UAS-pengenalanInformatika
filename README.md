@@ -146,6 +146,10 @@ berikut adalah link dari profil linkedin yang sudah saya buat
 www.linkedin.com/in/dzikri-rabbani-3bb16428a
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+Ini merupakan link github milik saya
+https://github.com/dzikriii24
+dan ini merupakan link video bagaimana saya membangun github pages
+https://www.youtube.com/watch?v=-962sj3pvJY
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 Saya mengikuti online course terkait IT, yang dilaksanakan pada hari minggu tanggal 17 desember 2023 yang diadakan oleh Google Developer Student Club UINSGD.
