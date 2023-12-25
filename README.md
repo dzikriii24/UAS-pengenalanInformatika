@@ -136,6 +136,9 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+Saya mengikuti online course terkait IT, yang dilaksanakan pada hari minggu tanggal 17 desember 2023 yang diadakan oleh Google Developer Student Club UINSGD.
+![Screenshot (19)](https://github.com/dzikriii24/UAS-pengenalanInformatika/assets/144420544/a27682dd-d4d5-4cf7-a83d-354558d8b930)
+
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
