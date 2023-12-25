@@ -5,15 +5,18 @@ https://dzikriee.wordpress.com/2023/12/25/computational-thinking/
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 https://dzikriee.wordpress.com/2023/12/25/jenis-jenis-mesin-komputasi-computational-machine/
-## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
+## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+https://youtu.be/Ac52uJJxM6k
 ## Mencoba Console Sistem Operasi
+
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
@@ -24,6 +27,7 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+https://youtu.be/NsNPipbUz0Y
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
@@ -55,6 +59,7 @@ Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.ht
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+https://youtu.be/iP3EFMHpZO8
 
 Referensi tutorial 
 - Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
@@ -94,6 +99,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+https://youtu.be/WYwFyk4ICwU
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
@@ -132,6 +138,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+https://youtu.be/1uxQWLLQc8k
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
