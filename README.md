@@ -30,6 +30,7 @@ Referensi [1](https://scratch.mit.edu/)
 https://youtu.be/NsNPipbUz0Y
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+https://youtu.be/nvcyZiWN4Ac
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
