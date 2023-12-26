@@ -1,94 +1,115 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+berikut link wordpress dari blog computational thinking
 https://dzikriee.wordpress.com/2023/12/25/computational-thinking/
+
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 https://dzikriee.wordpress.com/2023/12/25/jenis-jenis-mesin-komputasi-computational-machine/
 
+
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 https://youtu.be/Ac52uJJxM6k
+
+
 ## Mencoba Console Sistem Operasi
-
-
 ### Windows CMD [v] ⭐⭐⭐⭐
-
+LINK YOUTUBE : https://youtu.be/ZP-UFCkXp2Y
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
+
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
-https://youtu.be/KCivIS0lh70
+LINK YOUTUBE : https://youtu.be/KCivIS0lh70
 
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-https://youtu.be/qJMzKjjowqw
-
+LINK YOUTUBE : https://youtu.be/qJMzKjjowqw
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-
+LINK YOUTUBE : https://youtu.be/AP30Y0BGRyc
 Referensi [1](https://scratch.mit.edu/)
-https://youtu.be/AP30Y0BGRyc
+
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-https://youtu.be/NsNPipbUz0Y
+LINK YOUTUBE : https://youtu.be/NsNPipbUz0Y
+
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
-https://youtu.be/nvcyZiWN4Ac
+LINK YOUTUBE : https://youtu.be/nvcyZiWN4Ac
+
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
-https://youtu.be/uUBVhuilQjE
+LINK YOUTUBE : https://youtu.be/uUBVhuilQjE
+PROFIL HACKERRANK
+![Screenshot (23)](https://github.com/dzikriii24/UAS-pengenalanInformatika/assets/144420544/c297750f-755a-4ce4-9861-098ab12f7265)
+
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
-## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
+## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+LINK YOUTUBE : https://youtu.be/80T_9hv2_ag
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
-https://youtu.be/80T_9hv2_ag
+
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
-
+LINK YOUTUBE : https://youtu.be/220l-aPfqJ4
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
+
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+LINK YOUTUBE : https://youtu.be/WF81yTa5O0A
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
-## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
+## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+LINK YOUTUBE : https://youtu.be/jBBUL-02L7Y
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
-## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-https://youtu.be/GySmRgmi2mA
 
+## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+LINK YOUTUBE : https://youtu.be/GySmRgmi2mA
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
+
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-https://youtu.be/iP3EFMHpZO8
+LINK YOUTUBE : https://youtu.be/iP3EFMHpZO8
 
 Referensi tutorial 
 - Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
 - Styling halaman web : [CSS](https://www.w3schools.com/css/)
 - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+- 
+
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
 Referensi []
 
+
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
-https://youtu.be/OqO_W40_T4I
+LINK YOUTUBE : https://youtu.be/OqO_W40_T4I
+
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
+
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
+
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
-https://youtu.be/XTJ6avwG_44
+LINK YOUTUBE : https://youtu.be/XTJ6avwG_44
+
+
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
@@ -108,7 +129,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
-https://youtu.be/WYwFyk4ICwU
+LINK YOUTUBE : https://youtu.be/WYwFyk4ICwU
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
@@ -116,54 +137,94 @@ https://youtu.be/WYwFyk4ICwU
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
+
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+LINK YOUTUBE : https://youtu.be/3yhKsaFYuTU
+PROFIL HUGGINGFACE
+![Screenshot (21)](https://github.com/dzikriii24/UAS-pengenalanInformatika/assets/144420544/bde401fe-3050-4011-92e3-561eed1b25ed)
+
+
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+LINK YOUTUBE : https://youtu.be/DorF9BTau1o
+PROFIL KAGGLE
+![Screenshot (25)](https://github.com/dzikriii24/UAS-pengenalanInformatika/assets/144420544/627ba9c4-8229-4ad1-80aa-573f847d6cbf)
+
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
-https://youtu.be/-UqTTqFTNzM
+LINK YOUTUBE : https://youtu.be/-UqTTqFTNzM
+
+
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
-https://dzikriee.wordpress.com/2023/12/26/apa-itu-jurnal-conference-artikel-grade-jurnal/
+LINK WORDPRESS : https://dzikriee.wordpress.com/2023/12/26/apa-itu-jurnal-conference-artikel-grade-jurnal/
+
+
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
-https://youtu.be/0ZsC-qhmnsc
+LINK YOUTUBE : https://youtu.be/0ZsC-qhmnsc
+
+
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+LINK YOUTUBE : https://youtu.be/b9rcEY2shwM
+
+
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
-https://youtu.be/2SY7GnqPU5Q
+LINK YOUTUBE : https://youtu.be/2SY7GnqPU5Q
+
+
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
-https://youtu.be/Eu_fqCdWdvY
+LINK YOUTUBE : https://youtu.be/Eu_fqCdWdvY
+
+
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
-https://youtu.be/QVCjHtRyK54
+LINK YOUTUBE : https://youtu.be/QVCjHtRyK54
+
+
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+LINK YOUTUBE : https://youtu.be/TO0gQHau7z0
+
+
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+LINK YOUTUBE : https://youtu.be/SLvQic15H8o
+
+
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+LINK YOUTUBE : https://youtu.be/WMvZF3QtyVA
+
+
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 Ini adalah video pembuatan akun linkedin
-https://youtu.be/1uxQWLLQc8k
+LINK YOUTUBE : https://youtu.be/1uxQWLLQc8k
 
 berikut adalah link dari profil linkedin yang sudah saya buat
-www.linkedin.com/in/dzikri-rabbani-3bb16428a
+LINK LINKED.IN : www.linkedin.com/in/dzikri-rabbani-3bb16428a
+PROFIL LINKED.IN
+![Screenshot (24)](https://github.com/dzikriii24/UAS-pengenalanInformatika/assets/144420544/8e1d62fc-6c0d-4ba6-87b5-1d980c809bac)
+
+
+
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+ini merupakan link video bagaimana saya membangun github pages
+LINK YOUTUBE : https://www.youtube.com/watch?v=-962sj3pvJY
 Ini merupakan link github milik saya
-https://github.com/dzikriii24
-dan ini merupakan link video bagaimana saya membangun github pages
-https://www.youtube.com/watch?v=-962sj3pvJY
+LINK GITHUB : https://github.com/dzikriii24
+
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 Saya mengikuti online course terkait IT, yang dilaksanakan pada hari minggu tanggal 17 desember 2023 yang diadakan oleh Google Developer Student Club UINSGD.
