@@ -16,15 +16,18 @@ https://youtu.be/Ac52uJJxM6k
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+https://youtu.be/KCivIS0lh70
 
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+https://youtu.be/qJMzKjjowqw
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 Referensi [1](https://scratch.mit.edu/)
+https://youtu.be/AP30Y0BGRyc
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 https://youtu.be/NsNPipbUz0Y
@@ -33,6 +36,7 @@ https://youtu.be/NsNPipbUz0Y
 https://youtu.be/nvcyZiWN4Ac
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+https://youtu.be/uUBVhuilQjE
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
@@ -56,6 +60,7 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+https://youtu.be/GySmRgmi2mA
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
@@ -72,6 +77,7 @@ Referensi tutorial
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+https://youtu.be/OqO_W40_T4I
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
@@ -81,6 +87,7 @@ Referensi []
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+https://youtu.be/XTJ6avwG_44
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
@@ -113,6 +120,7 @@ https://youtu.be/WYwFyk4ICwU
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+https://youtu.be/-UqTTqFTNzM
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
@@ -127,10 +135,13 @@ https://youtu.be/WYwFyk4ICwU
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+https://youtu.be/2SY7GnqPU5Q
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+https://youtu.be/Eu_fqCdWdvY
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+https://youtu.be/QVCjHtRyK54
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
