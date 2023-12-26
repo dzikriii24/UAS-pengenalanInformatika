@@ -44,6 +44,7 @@ https://youtu.be/uUBVhuilQjE
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
+https://youtu.be/80T_9hv2_ag
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
