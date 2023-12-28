@@ -228,6 +228,7 @@ LINK GITHUB : https://github.com/dzikriii24
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 Saya mengikuti online course terkait IT, yang dilaksanakan pada hari minggu tanggal 17 desember 2023 yang diadakan oleh Google Developer Student Club UINSGD.
+**https://dzikriee.wordpress.com/2023/12/28/google-developer-student-clubs-get-the-most-out-of-study-jams/**
 ![Screenshot (19)](https://github.com/dzikriii24/UAS-pengenalanInformatika/assets/144420544/a27682dd-d4d5-4cf7-a83d-354558d8b930)
 
 
