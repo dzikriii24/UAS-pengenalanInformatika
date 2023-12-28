@@ -105,9 +105,12 @@ LINK YOUTUBE : https://youtu.be/-WAH-UD2nSk
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+LINK YOUTUBE : https://youtu.be/-WAH-UD2nSk
+
 
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+
 
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
