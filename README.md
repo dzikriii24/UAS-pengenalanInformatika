@@ -213,6 +213,8 @@ LINK WORDPRESS : https://dzikriee.wordpress.com/2023/12/26/apa-itu-jurnal-confer
 
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+LINK YOUTUBE : https://youtu.be/WlrWE8Chlt0
+
 
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
