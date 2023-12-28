@@ -2,15 +2,15 @@
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 berikut link wordpress dari blog computational thinking
-https://dzikriee.wordpress.com/2023/12/25/computational-thinking/
+LINK WORDPRESS : https://dzikriee.wordpress.com/2023/12/25/computational-thinking/
 
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-https://dzikriee.wordpress.com/2023/12/25/jenis-jenis-mesin-komputasi-computational-machine/
+LINK WORDPRESS : https://dzikriee.wordpress.com/2023/12/25/jenis-jenis-mesin-komputasi-computational-machine/
 
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-https://youtu.be/Ac52uJJxM6k
+LINK YOUTUBE : https://youtu.be/Ac52uJJxM6k
 
 
 ## Mencoba Console Sistem Operasi
@@ -91,6 +91,7 @@ Referensi tutorial
 
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+LINK YOUTUBE : https://youtu.be/g_ZUZnDApRU
 
 Referensi []
 
@@ -110,6 +111,7 @@ LINK YOUTUBE : https://youtu.be/-WAH-UD2nSk
 
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+LINK YOUTUBE : https://youtu.be/Q7kveq2sgos
 
 
 
@@ -120,14 +122,20 @@ LINK YOUTUBE : https://youtu.be/XTJ6avwG_44
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
+LINK YOUTUBE : https://youtu.be/a9rYGX_a4ys
 
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
+
+
+
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
-https://dzikriee.wordpress.com
+LINK WORDPRESS : https://dzikriee.wordpress.com
 
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+LINK YOUTUBE : https://youtu.be/yD4oi2M7NIg
+
 
 
 
@@ -137,10 +145,19 @@ LINK YOUTUBE : https://youtu.be/SLCeR0R0nB0
 
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+LINK YOUTUBE : https://youtu.be/y-EbPCpM0GI
+
+
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+LINK YOUTUBE : https://youtu.be/lt2QJekyRPk
+
+
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+LINK WORDPRESS : https://dzikriee.wordpress.com/2023/12/28/ai-discriminative-image-classification/
+
+
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 LINK YOUTUBE : https://youtu.be/WYwFyk4ICwU
@@ -148,8 +165,13 @@ LINK YOUTUBE : https://youtu.be/WYwFyk4ICwU
 
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+LINK YOUTUBE : https://youtu.be/FYPAukrFky0
 
-## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+
+
+## Mencoba Data Visualization Dengan Tools [v] ⭐⭐\
+LINK YOUTUBE : https://youtu.be/zhUEZtvFBrw
+
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 LINK YOUTUBE : https://youtu.be/nw-dXwZV3jA
@@ -175,8 +197,15 @@ LINK YOUTUBE : https://youtu.be/-UqTTqFTNzM
 
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+LINK YOUTUBE : https://youtu.be/YLTun2DPML0
+
+
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+LINK YOUTUBE : https://youtu.be/u_ISxwnyXpg
+
+
+
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 LINK WORDPRESS : https://dzikriee.wordpress.com/2023/12/26/apa-itu-jurnal-conference-artikel-grade-jurnal/
@@ -248,11 +277,13 @@ LINK GITHUB : https://github.com/dzikriii24
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 Saya mengikuti online course terkait IT, yang dilaksanakan pada hari minggu tanggal 17 desember 2023 yang diadakan oleh Google Developer Student Club UINSGD.
-**https://dzikriee.wordpress.com/2023/12/28/google-developer-student-clubs-get-the-most-out-of-study-jams/**
+LINK WORDPRESS : **https://dzikriee.wordpress.com/2023/12/28/google-developer-student-clubs-get-the-most-out-of-study-jams/**
 ![Screenshot (19)](https://github.com/dzikriii24/UAS-pengenalanInformatika/assets/144420544/a27682dd-d4d5-4cf7-a83d-354558d8b930)
 
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+disini saya membaca buku yang bertemakan self-improvment
+LINK WORDPRESS : https://dzikriee.wordpress.com/2023/12/28/atomic-habits-perubahan-kecil-yang-memberikan-hasil-luar-biasa/
 
 
 
