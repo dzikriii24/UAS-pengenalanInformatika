@@ -47,6 +47,8 @@ PROFIL HACKERRANK
 
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+LINK YOUTUBE : https://youtu.be/UsGCSb8-ZKU
+
 
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
@@ -98,6 +100,8 @@ LINK YOUTUBE : https://youtu.be/OqO_W40_T4I
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+LINK YOUTUBE : https://youtu.be/-WAH-UD2nSk
+
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
@@ -121,6 +125,9 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+LINK YOUTUBE : https://youtu.be/SLCeR0R0nB0
+
+
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
@@ -131,11 +138,15 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 LINK YOUTUBE : https://youtu.be/WYwFyk4ICwU
 
+
+
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+LINK YOUTUBE : https://youtu.be/nw-dXwZV3jA
+
 
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
@@ -167,6 +178,7 @@ LINK WORDPRESS : https://dzikriee.wordpress.com/2023/12/26/apa-itu-jurnal-confer
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
+
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 LINK YOUTUBE : https://youtu.be/0ZsC-qhmnsc
 
@@ -194,6 +206,7 @@ LINK YOUTUBE : https://youtu.be/QVCjHtRyK54
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 LINK YOUTUBE : https://youtu.be/TO0gQHau7z0
+
 
 
 
